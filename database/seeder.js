@@ -1,4 +1,4 @@
-const Lululemon = require('./models.js');
+const Lalalime = require('./index.js');
 
 
 // data
@@ -880,9 +880,9 @@ const combineProducts = () => {
 
 // seeding data
 const insertData = () => {
-  Lululemon.insertMany(combineProducts())
+  Lalalime.insertMany(combineProducts())
   .then(() => console.log('db seeded'))
-  .catch((err) => console.log('seed err'))
+  .catch((err) => console.log('seed err', err))
 }
 
 insertData();
