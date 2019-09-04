@@ -1,0 +1,148 @@
+.similar-container {
+  box-sizing: border-box;
+  display: grid;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 19.2px;
+  margin: 0px 74px;
+}
+
+.headline {
+  text-align: center;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin-bottom: 0;
+  font-size: 35px;
+  font-weight: 600;
+  box-sizing: border-box;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-family: Calibre, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-style: normal;
+  color: black;
+  letter-spacing: normal;
+}
+
+.imageList {
+  text-align: center;
+}
+
+.image {
+  display: inline-grid;
+  grid-template-columns: 1fr;
+  grid-column-gap: 1.5em;
+  padding: 0px 15px;
+}
+
+.mainImg {
+  height: 362px;
+  width: 300px;
+}
+
+.hoverListImg {
+  display: grid;
+  grid-template-areas:
+  "hoverImg hoverImg hoverImg hoverImg"
+}
+
+.hoverImg {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-column-gap: 1.5em;
+  padding: 0px 15px;
+}
+
+.nest {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+
+.hoverMainImg {
+  grid-row: 1 / span 1;
+  height: 362px;
+  width: 300px;
+}
+
+.swatch-bg {
+  position: absolute;
+  bottom: 0; 
+  background-color: white;
+  width: 300px;
+  height: 65px;
+}
+
+.swatchImg {
+  /* box-sizing: border-box;
+  display: inline; */
+  width: 58px;
+  height: 28px;
+  margin-top: 17px;
+  margin-bottom: 17px;
+  margin-left: 5px;
+}
+
+.svgIcon {
+  padding-bottom: 12px;
+  width: 10px;
+  height: 40px;
+}
+
+.svgButton {
+  background: transparent;
+  border: none !important;
+  cursor: pointer;
+}
+
+.title {
+  text-align: center;
+}
+
+.price {
+  text-align: center;
+}
+
+.product-titles {
+  display: inline-grid;
+  grid-template-columns: 1fr;
+  grid-column-gap: 1.5em;
+  width: 300px;
+  height: 45;
+  padding: 0px 15px;
+}
+
+.product-titles a {
+  text-decoration: none;
+  text-align: left;
+}
+
+.product-name {
+  font-family: Calibre, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 600; 
+  color: black;
+}
+
+.product-prices {
+  display: inline-grid;
+  grid-template-columns: 1fr;
+  grid-column-gap: 1.5em;
+  width: 300px;
+  height: 45px;
+  padding: 0px 15px;
+}
+
+.product-cost {
+  font-family: Calibre, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 18px;
+  text-align: left;
+  font-weight: 300; 
+  line-height: 24px;
+}
+
+
