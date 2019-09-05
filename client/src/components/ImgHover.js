@@ -23,22 +23,17 @@ class Imghover extends Component {
   }
   
   onMouseDiv (event) {
-    console.log("this is working", "id:",event.target.id)
     if(event.target.id === "img1") {
       this.onMouseIn(event)
-      console.log("this is working2")
     }
     if(event.target.id === "img2") {
       this.onMouseIn2(event)
-      console.log("this is working3")
     }
     if(event.target.id === "img3") {
       this.onMouseIn3(event)
-      console.log("this is working4")
     }
     if(event.target.id === "img4") {
       this.onMouseIn4(event)
-      console.log("this is working5")
     }
   }
 
@@ -72,7 +67,6 @@ class Imghover extends Component {
     const { img } = this.props;
     if (img.length > 0) {
       if(this.state.img1 >= 0 || this.state.img2 >= 0 || this.state.img3 >= 0 || this.state.img4 >= 0){
-      console.log('shosdfosdif', img)
       return (
         <div className="hoverListImg">
           <HoverImg1 pic1={img[0]} swatch1={img[0]} img1Index={this.state.img1} onMouseOver={this.onMouseDiv} />

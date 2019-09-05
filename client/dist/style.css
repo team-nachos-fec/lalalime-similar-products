@@ -43,7 +43,12 @@
   width: 300px;
 }
 
+.mainImg {
+  cursor: pointer;
+}
+
 .hoverListImg {
+  padding: 0px 280px;
   display: grid;
   grid-template-areas:
   "hoverImg hoverImg hoverImg hoverImg"
@@ -54,12 +59,14 @@
   grid-template-columns: 1fr;
   grid-column-gap: 1.5em;
   padding: 0px 15px;
+  width: 300px;
 }
 
 .nest {
   position: relative;
   display: grid;
   grid-template-columns: 1fr;
+  width: 300px;
 }
 
 .hoverMainImg {

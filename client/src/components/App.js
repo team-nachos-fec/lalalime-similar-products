@@ -12,10 +12,12 @@ class App extends Component {
     this.state ={
       title: [],
       price: [],
-      img: []
-      // imgMain: [],
-      // imgSec: [],
-      // imgColor: []
+      img: [],
+      hover: false
+      // mainPic1: 0,
+      // mainPic2: 0,
+      // mainPic3: 0,
+      // mainPic4: 0
     }
     this.getComponents = this.getComponents.bind(this);
 
@@ -37,6 +39,86 @@ class App extends Component {
   }
 
  
+  // onMouseHoverHandler (event) {
+  //   console.log("this is the app page")
+  //   if(event.target.id === "pic1"){
+  //     this.picOn1(event)
+  //   }
+  //   if(event.target.id === "pic2"){
+  //     this.picOn2(event)
+  //   }
+  //   if(event.target.id === "pic3"){
+  //     this.picOn3(event)
+  //   }
+  //   if(event.target.id === "pic4"){
+  //     this.picOn4(event)
+  //   }
+  // }
+
+  // picOn1(event){
+  //   this.setState (
+  //     {mainPic1: 1}
+  //   )
+  //   this.picOff1(event);
+  // }
+
+  // picOn2(event){
+  //   this.setState (
+  //     {mainPic2: 1}
+  //   )
+  //   this.picOff2(event);
+  // }
+
+  // picOn3(event){
+  //   this.setState (
+  //     {mainPic3: 1}
+  //   )
+  //   this.picOff3(event);
+  // }
+
+  // picOn4(event){
+  //   this.setState (
+  //     {mainPic4: 1}
+  //   )
+  //   this.picOff4(event);
+  // }
+
+  // picOff1(event){
+  //   this.setState (
+  //     {mainPic1: 0}
+  //   )
+  // }
+
+  // picOff2(event){
+  //   this.setState (
+  //     {mainPic2: 0}
+  //   )
+  // }
+
+  // picOff3(event){
+  //   this.setState (
+  //     {mainPic3: 0}
+  //   )
+  // }
+
+  // picOff4(event){
+  //   this.setState (
+  //     {mainPic4: 0}
+  //   )
+  // }
+  
+
+  onPicHoverIn (event) {
+    this.setState (
+      {hover: true}
+    )
+  }
+
+  onPicHoverOff (event) {
+    this.setState (
+      {hover: false}
+    )
+  }
 
   render(){
     return(
@@ -45,10 +127,10 @@ class App extends Component {
           <h2 className="headline">You may also like</h2>
         </div>
         {/* <List title={this.state.title} price={this.state.price} img={this.state.img}/>  */}
+        <ImgHover img={this.state.img}/>
         <ImgList img={this.state.img}/>
         <TitleList title={this.state.title}/>
         <PriceList price={this.state.price}/>
-        <ImgHover img={this.state.img}/>
       </div>
     )
   }

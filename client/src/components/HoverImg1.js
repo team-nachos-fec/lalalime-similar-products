@@ -1,7 +1,5 @@
 import React from 'react';
 import {FaAngleLeft, FaAngleRight} from 'react-icons/fa'
-// import { PromiseProvider } from 'mongoose';
-
 
 const HoverImg1 = ({pic1, swatch1, img1Index, onMouseOver}) => {
   return (
