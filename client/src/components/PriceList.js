@@ -3,7 +3,7 @@ import Price from './Price.js';
 
 const PriceList = ({price}) => {
   return (
-    <div class="price">
+    <div className="price">
       {price.map((cost, i) => (
        <Price cost={cost} key={i}/>
       ))}

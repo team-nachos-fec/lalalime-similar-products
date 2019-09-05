@@ -3,7 +3,7 @@ import Title from './Title.js';
 
 const TitleList = ({title}) => {
   return (
-    <div class="title">
+    <div className="title">
       {title.map((name, i) => (
        <Title name={name} key={i}/>
      ))}

@@ -7,12 +7,12 @@ import Image4 from './Image4.js';
 const ImgList = ({img}) => {
   if (img.length > 0) {
     return (
-      <div class="imageList">
+      <div className="imageList">
         {/* {console.log('pic1', img[0][0])} */}
         <Image1 pic1={img[0][0]}/>
-        <Image2 pic2={img[1][0]}/>
-        <Image3 pic3={img[2][0]}/>
-        <Image4 pic4={img[3][0]}/>
+        <Image2 pic2={img[1][1]}/>
+        <Image3 pic3={img[2][2]}/>
+        <Image4 pic4={img[3][3]}/>
       </div>
     )
   } else {

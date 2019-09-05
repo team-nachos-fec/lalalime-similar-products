@@ -62,19 +62,27 @@
   grid-template-columns: 1fr;
 }
 
-
 .hoverMainImg {
   grid-row: 1 / span 1;
   height: 362px;
   width: 300px;
 }
 
+.hoverMainImg:hover {
+  cursor: pointer;
+}
+
 .swatch-bg {
   position: absolute;
+  z-index: 0;
   bottom: 0; 
   background-color: white;
   width: 300px;
   height: 65px;
+}
+
+.swatchImg:hover {
+  cursor: pointer;
 }
 
 .swatchImg {

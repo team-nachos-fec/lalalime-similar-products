@@ -2,43 +2,53 @@ import React from 'react';
 import {FaAngleLeft, FaAngleRight} from 'react-icons/fa'
 
 
-const HoverImg2 = ({pic2}) => {
+const HoverImg2 = ({pic2, swatch2, img2Index, onMouseOver}) => {
   
   return (
-    <div class="hoverImg">
+    <div className="hoverImg">
       {/* {console.log('test img1',pic2.slice(2,3))} */}
-      <div class="nest">      
+      <div className="nest" id="img2">  
           <img 
-          class="hoverMainImg hovPic2" 
-          src={pic2.slice(2,3)} 
+          className="hoverMainImg hovPic2" 
+          src={pic2[img2Index].slice(2,3)} 
           alt="Hover Image" 
-          />
-        <div class="swatch-bg">
-          <button class="svgButton"><FaAngleLeft class="svgIcon" size={30} color="#7f7f7f"/></button>
-          <a href="#">
+          onMouseOver={(e) => onMouseOver(e)}
+          /> 
+        <div className="swatch-bg">
+          <button className="svgButton"><FaAngleLeft className="svgIcon" size={30} color="#7f7f7f"/></button>
             <img 
-            class="swatchImg hoverbox1" 
-            src={pic2.slice(1,2)} 
-            alt="swatch Image" 
-            />
-            <img 
-            class="swatchImg hoverbox2" 
-            src={pic2.slice(1,2)} 
-            alt="swatch Image" 
-            />
-            <img 
-            class="swatchImg hoverbox3" 
-            src={pic2.slice(1,2)} 
-            alt="swatch Image" 
-            />
-            <img 
-            class="swatchImg hoverbox4" 
-            src={pic2.slice(1,2)} 
-            alt="swatch Image" 
-            />
-          </a>
-          
-          <button class="svgButton rbttn"><FaAngleRight class="svgIcon" size={30} color="#7f7f7f"/></button>
+              className="swatchImg hoverbox1" 
+              src={swatch2[0].slice(1,2)} 
+              alt="swatch Image" 
+              name="0"
+              id="img2"
+              onMouseOver={(e) => onMouseOver(e)}
+              />
+              <img 
+              className="swatchImg hoverbox2" 
+              src={swatch2[1].slice(1,2)} 
+              alt="swatch Image"
+              name="1" 
+              id="img2"
+              onMouseOver={(e) => onMouseOver(e)}
+              />
+              <img 
+              className="swatchImg hoverbox3" 
+              src={swatch2[2].slice(1,2)} 
+              alt="swatch Image"
+              name="2" 
+              id="img2"
+              onMouseOver={(e) => onMouseOver(e)}
+              />
+              <img 
+              className="swatchImg hoverbox4" 
+              src={swatch2[3].slice(1,2)} 
+              alt="swatch Image"
+              name="3" 
+              id="img2"
+              onMouseOver={(e) => onMouseOver(e)}
+              />
+          <button className="svgButton rbttn"><FaAngleRight className="svgIcon" size={30} color="#7f7f7f"/></button>
         </div>
       </div>
     </div>

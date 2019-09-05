@@ -40,9 +40,9 @@ class App extends Component {
 
   render(){
     return(
-      <div class="similar-container">
-        <div class="headline-top">
-          <h2 class="headline">You may also like</h2>
+      <div className="similar-container">
+        <div className="headline-top">
+          <h2 className="headline">You may also like</h2>
         </div>
         {/* <List title={this.state.title} price={this.state.price} img={this.state.img}/>  */}
         <ImgList img={this.state.img}/>

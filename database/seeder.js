@@ -40,124 +40,124 @@ const createDresses = (name) => {
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
   ];
@@ -173,131 +173,131 @@ const createTanks = (name) => {
   product.price = createPrice();
   product.img = [
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
   ];
@@ -313,131 +313,131 @@ const createSweaters = (name) => {
   product.price = createPrice();
   product.img = [
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
   ];
@@ -453,131 +453,131 @@ const createSkirts = (name) => {
   product.price = createPrice();
   product.img = [
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
   ];
@@ -593,131 +593,131 @@ const createShorts = (name) => {
   product.price = createPrice();
   product.img = [
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
   ];
@@ -733,131 +733,131 @@ const createPants = (name) => {
   product.price = createPrice();
   product.img = [
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
     [
-      [
+            [
         "Tempest Blue", 
         "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
         "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color1", 
+        "https://images.lululemon.com/is/image/lululemon/32491?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW7AZ2S_032491_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color2", 
+        "https://images.lululemon.com/is/image/lululemon/36763?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036763_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "something color3", 
+        "https://images.lululemon.com/is/image/lululemon/38324?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_038324_1?$image_carousel-xl_2x$"
       ],
       [
-        "Tempest Blue", 
-        "https://images.lululemon.com/is/image/lululemon/9670?$gsr-swatch$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_2?$image_carousel-xl_2x$",
-        "https://images.lululemon.com/is/image/lululemon/LW5BURS_9670_1?$image_carousel-xl_2x$"
+        "green", 
+        "https://images.lululemon.com/is/image/lululemon/36729?$gsr-swatch$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_2?$image_carousel-xl_2x$",
+        "https://images.lululemon.com/is/image/lululemon/LW6AS5S_036729_1?$image_carousel-xl_2x$"
       ]
     ],
   ];
