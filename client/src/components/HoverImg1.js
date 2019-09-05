@@ -9,7 +9,7 @@ const HoverImg1 = ({pic1, swatch1, img1Index, onMouseOver}) => {
       {/* {console.log('test img1',pic1.slice(2,3))} */}
       <div className="nest" >  
         <img 
-        className="hoverMainImg hovPic2" 
+        className="hoverMainImg hovPic1" 
         src={pic1[img1Index].slice(2,3)} 
         alt="Hover Image" 
         /> 
