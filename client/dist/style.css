@@ -80,11 +80,17 @@
 .swatchImg {
   /* box-sizing: border-box;
   display: inline; */
-  width: 58px;
-  height: 28px;
+  border: 1px solid transparent;
+  padding: 2px;
+  width: 52px;
+  height: 26px;
   margin-top: 17px;
   margin-bottom: 17px;
-  margin-left: 5px;
+  margin-left: 3px;
+}
+
+.swatchImg:hover {
+  border: 1px solid black;
 }
 
 .svgIcon {
@@ -99,11 +105,12 @@
   cursor: pointer;
 }
 
-.title {
-  text-align: center;
+
+.rbttn {
+  margin-left: 5px;
 }
 
-.price {
+.title {
   text-align: center;
 }
 
@@ -128,6 +135,14 @@
   color: black;
 }
 
+
+
+/* prices */
+
+.price {
+  text-align: center;
+}
+
 .product-prices {
   display: inline-grid;
   grid-template-columns: 1fr;
@@ -144,5 +159,6 @@
   font-weight: 300; 
   line-height: 24px;
 }
+
 
 

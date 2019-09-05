@@ -17,28 +17,28 @@ const HoverImg2 = ({pic2}) => {
           <button class="svgButton"><FaAngleLeft class="svgIcon" size={30} color="#7f7f7f"/></button>
           <a href="#">
             <img 
-            class="swatchImg" 
+            class="swatchImg hoverbox1" 
             src={pic2.slice(1,2)} 
             alt="swatch Image" 
             />
             <img 
-            class="swatchImg" 
+            class="swatchImg hoverbox2" 
             src={pic2.slice(1,2)} 
             alt="swatch Image" 
             />
             <img 
-            class="swatchImg" 
+            class="swatchImg hoverbox3" 
             src={pic2.slice(1,2)} 
             alt="swatch Image" 
             />
             <img 
-            class="swatchImg" 
+            class="swatchImg hoverbox4" 
             src={pic2.slice(1,2)} 
             alt="swatch Image" 
             />
           </a>
           
-          <button class="svgButton"><FaAngleRight class="svgIcon" size={30} color="#7f7f7f"/></button>
+          <button class="svgButton rbttn"><FaAngleRight class="svgIcon" size={30} color="#7f7f7f"/></button>
         </div>
       </div>
     </div>
