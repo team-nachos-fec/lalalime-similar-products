@@ -4,10 +4,10 @@ import Image2 from './Image2.js';
 import Image3 from './Image3.js';
 import Image4 from './Image4.js';
 
-const ImgList = ({img}) => {
+const ImgList = ({img, onMouseHandlerOn, onMouseHandlerOff}) => {
   if (img.length > 0) {
     return (
-      <div className="imageList">
+      <div className="imageList" onMouseOver={onMouseHandlerOn} onMouseOut={onMouseHandlerOff} >
         {/* {console.log('pic1', img[0][0])} */}
         <Image1 pic1={img[0][0]}/>
         <Image2 pic2={img[1][1]}/>

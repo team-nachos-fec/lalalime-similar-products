@@ -1,3 +1,7 @@
+body {
+   width: 1500px;
+}
+
 .similar-container {
   box-sizing: border-box;
   display: grid;
@@ -27,7 +31,8 @@
   letter-spacing: normal;
 }
 
-.imageList {
+/* imageList */
+/* .imageList {
   text-align: center;
 }
 
@@ -36,19 +41,19 @@
   grid-template-columns: 1fr;
   grid-column-gap: 1.5em;
   padding: 0px 15px;
-}
+} */
 
 .mainImg {
+  display: none;
   height: 362px;
   width: 300px;
-}
-
-.mainImg {
   cursor: pointer;
 }
 
+
+
 .hoverListImg {
-  padding: 0px 280px;
+  padding:  0px 15px;
   display: grid;
   grid-template-areas:
   "hoverImg hoverImg hoverImg hoverImg"
@@ -79,35 +84,82 @@
   cursor: pointer;
 }
 
+.hovPic1:hover + .swatch-bg {
+  position: absolute;
+  display: block;
+  bottom: 0; 
+  background-color: white;
+  width: 300px;
+  height: 65px;
+  cursor: pointer;
+}
+
+.hovPic2:hover + .swatch-bg {
+  position: absolute;
+  display: block;
+  bottom: 0; 
+  background-color: white;
+  width: 300px;
+  height: 65px;
+  cursor: pointer;
+}
+
+.hovPic3:hover + .swatch-bg {
+  position: absolute;
+  display: block;
+  bottom: 0; 
+  background-color: white;
+  width: 300px;
+  height: 65px;
+  cursor: pointer;
+}
+
+.hovPic4:hover + .swatch-bg {
+  position: absolute;
+  display: block;
+  bottom: 0; 
+  background-color: white;
+  width: 300px;
+  height: 65px;
+  cursor: pointer;
+}
+
 .swatch-bg {
   position: absolute;
-  z-index: 0;
+  display: none;
   bottom: 0; 
   background-color: white;
   width: 300px;
   height: 65px;
 }
 
-.swatchImg:hover {
+.swatch-bg:hover {
+  position: absolute;
+  display: block;
+  bottom: 0; 
+  background-color: white;
+  width: 300px;
+  height: 65px;
   cursor: pointer;
 }
 
 .swatchImg {
-  /* box-sizing: border-box;
-  display: inline; */
+  display:inline-block;
   border: 1px solid transparent;
-  padding: 2px;
-  width: 52px;
-  height: 26px;
-  margin-top: 17px;
-  margin-bottom: 17px;
-  margin-left: 3px;
+  padding: 2px !important;
+  width: 52px !important;
+  height: 26px !important;
+  margin-top: 17px !important;
+  margin-bottom: 17px !important;
+  margin-left: 3px !important;
 }
 
 .swatchImg:hover {
+  cursor: pointer;
   border: 1px solid black;
 }
 
+/* svg button */
 .svgIcon {
   padding-bottom: 12px;
   width: 10px;
@@ -120,11 +172,11 @@
   cursor: pointer;
 }
 
-
 .rbttn {
   margin-left: 5px;
 }
 
+/* titles */
 .title {
   text-align: center;
 }
@@ -149,8 +201,6 @@
   font-weight: 600; 
   color: black;
 }
-
-
 
 /* prices */
 

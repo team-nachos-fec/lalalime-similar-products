@@ -20,7 +20,10 @@ class App extends Component {
       // mainPic4: 0
     }
     this.getComponents = this.getComponents.bind(this);
-
+    // this.onMouseHandlerOn = this.onMouseHandlerOn.bind(this);
+    // this.onMouseHandlerOff = this.onMouseHandlerOff.bind(this);
+    // this.onPicHoverIn = this.onPicHoverIn.bind(this);
+    // this.onPicHoverOff = this.onPicHoverOff.bind(this); 
   }
 
   componentDidMount(){
@@ -107,33 +110,69 @@ class App extends Component {
   //   )
   // }
   
+  // onMouseHandlerOn (event) {
+  //   this.onPicHoverIn(event)
+  // }
 
-  onPicHoverIn (event) {
-    this.setState (
-      {hover: true}
-    )
-  }
+  // onMouseHandlerOff (event) {
+  //   this.onPicHoverOff(event)
+  // }
 
-  onPicHoverOff (event) {
-    this.setState (
-      {hover: false}
-    )
-  }
+  // onPicHoverIn (event) {
+  //   this.setState (
+  //     {hover: true}
+  //   )
+  // }
+
+  // onPicHoverOff (event) {
+  //   this.setState (
+  //     {hover: false}
+  //   )
+  // }
 
   render(){
-    return(
-      <div className="similar-container">
-        <div className="headline-top">
-          <h2 className="headline">You may also like</h2>
+      return(
+        <div className="similar-container">
+          <div className="headline-top">
+            <h2 className="headline">You may also like</h2>
+          </div>
+          <ImgHover img={this.state.img}/>
+          <TitleList title={this.state.title}/>
+          <PriceList price={this.state.price}/>
         </div>
-        {/* <List title={this.state.title} price={this.state.price} img={this.state.img}/>  */}
-        <ImgHover img={this.state.img}/>
-        <ImgList img={this.state.img}/>
-        <TitleList title={this.state.title}/>
-        <PriceList price={this.state.price}/>
-      </div>
-    )
+      )
   }
 }
+
+
+// render(){
+//   if(!this.state.hover){
+//     return(
+//       <div className="similar-container">
+//         <div className="headline-top">
+//           <h2 className="headline">You may also like</h2>
+//         </div>
+//         <ImgList img={this.state.img} onMouseHandlerOn={this.onMouseHandlerOn} onMouseHandlerOff={this.onMouseHandlerOff}/>
+//         <TitleList title={this.state.title}/>
+//         <PriceList price={this.state.price}/>
+//       </div>
+//     )
+//   } else {
+//     return(
+//       <div className="similar-container">
+//         <div className="headline-top">
+//           <h2 className="headline">You may also like</h2>
+//         </div>
+//         <ImgHover img={this.state.img}  />
+//         <TitleList title={this.state.title}/>
+//         <PriceList price={this.state.price}/>
+//       </div>
+//     )
+//   }
+// }
+
+
+
+
 
 export default App;
