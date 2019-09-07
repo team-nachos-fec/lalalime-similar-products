@@ -1,216 +1,217 @@
 body {
-   width: 0 auto;
+  width: 0 auto;
 }
 
 .similar-container {
-  box-sizing: border-box;
-  display: grid;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 19.2px;
-  margin: 0px 74px;
+ box-sizing: border-box;
+ display: grid;
+ font-size: 16px;
+ font-style: normal;
+ font-weight: 400;
+ line-height: 19.2px;
+ margin: 0px 74px;
 }
 
 .headline {
-  text-align: center;
-  display: block;
-  width: 100%;
-  padding: 0;
-  margin-bottom: 0;
-  font-size: 35px;
-  font-weight: 600;
-  box-sizing: border-box;
-  margin-block-start: 0.83em;
-  margin-block-end: 0.83em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  font-family: Calibre, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  font-style: normal;
-  color: black;
-  letter-spacing: normal;
+ text-align: center;
+ display: block;
+ width: 100%;
+ padding: 0;
+ margin-bottom: 0;
+ font-size: 35px;
+ font-weight: 600;
+ box-sizing: border-box;
+ margin-block-start: 0.83em;
+ margin-block-end: 0.83em;
+ margin-inline-start: 0px;
+ margin-inline-end: 0px;
+ font-family: Calibre, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+ font-style: normal;
+ color: black;
+ letter-spacing: normal;
 }
 
 
 
 .hoverListImg {
-  padding:  0px 25px;
-  margin-bottom: 15px;
-  display: grid;
-  grid-template-areas:
-  "hoverImg hoverImg hoverImg hoverImg"
+ padding:  0px 25px;
+ margin-bottom: 15px;
+ display: grid;
+ grid-template-areas:
+ "hoverImg hoverImg hoverImg hoverImg"
 }
 
 .hoverImg {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-column-gap: 1.5em;
-  padding: 0px 15px 0px 15px;
-  width: 300px;
+ display: grid;
+ grid-template-columns: 1fr;
+ grid-column-gap: 1.5em;
+ padding: 0px 15px 0px 15px;
+ width: 300px;
 }
 
 .nest {
-  position: relative;
-  display: grid;
-  grid-template-columns: 1fr;
-  width: 300px;
+ position: relative;
+ display: grid;
+ grid-template-columns: 1fr;
+ width: 300px;
 }
 
 .nestedImg {
-  position: relative;
-  display: grid;
-  width: 300px;
+ position: relative;
+ display: grid;
+ width: 300px;
 }
 
 .hoverMainImg {
-  grid-row: 1 / span 1;
-  height: 362px;
-  width: 300px;
+ grid-row: 1 / span 1;
+ height: 362px;
+ width: 300px;
 }
 
 .hoverMainImg:hover {
-  cursor: pointer;
+ cursor: pointer;
 }
 
+
 .hovPic1:hover + .swatch-bg {
-  position: absolute;
-  display: block;
-  bottom: 0; 
-  background-color: white;
-  width: 300px;
-  height: 65px;
-  cursor: pointer;
+ position: absolute;
+ display: block;
+ bottom: 0; 
+ background-color: white;
+ width: 300px;
+ height: 65px;
+ cursor: pointer;
 }
 
 .hovPic2:hover + .swatch-bg {
-  position: absolute;
-  display: block;
-  bottom: 0; 
-  background-color: white;
-  width: 300px;
-  height: 65px;
-  cursor: pointer;
+ position: absolute;
+ display: block;
+ bottom: 0; 
+ background-color: white;
+ width: 300px;
+ height: 65px;
+ cursor: pointer;
 }
 
 .hovPic3:hover + .swatch-bg {
-  position: absolute;
-  display: block;
-  bottom: 0; 
-  background-color: white;
-  width: 300px;
-  height: 65px;
-  cursor: pointer;
+ position: absolute;
+ display: block;
+ bottom: 0; 
+ background-color: white;
+ width: 300px;
+ height: 65px;
+ cursor: pointer;
 }
 
 .hovPic4:hover + .swatch-bg {
-  position: absolute;
-  display: block;
-  bottom: 0; 
-  background-color: white;
-  width: 300px;
-  height: 65px;
-  cursor: pointer;
+ position: absolute;
+ display: block;
+ bottom: 0; 
+ background-color: white;
+ width: 300px;
+ height: 65px;
+ cursor: pointer;
 }
 
 .swatch-bg {
-  position: absolute;
-  display: none;
-  bottom: 0; 
-  background-color: white;
-  width: 300px;
-  height: 65px;
+ position: absolute;
+ display: none;
+ bottom: 0; 
+ background-color: white;
+ width: 300px;
+ height: 65px;
 }
 
 .swatch-bg:hover {
-  position: absolute;
-  display: block;
-  bottom: 0; 
-  background-color: white;
-  width: 300px;
-  height: 65px;
-  cursor: pointer;
+ position: absolute;
+ display: block;
+ bottom: 0; 
+ background-color: white;
+ width: 300px;
+ height: 65px;
+ cursor: pointer;
 }
 
 .swatchImg {
-  display:inline-block;
-  border: 1px solid transparent;
-  padding: 2px !important;
-  width: 52px !important;
-  height: 26px !important;
-  margin-top: 17px !important;
-  margin-bottom: 17px !important;
-  margin-left: 3px !important;
+ display:inline-block;
+ border: 1px solid transparent;
+ padding: 2px !important;
+ width: 52px !important;
+ height: 26px !important;
+ margin-top: 17px !important;
+ margin-bottom: 17px !important;
+ margin-left: 3px !important;
 }
 
 .swatchImg:hover {
-  cursor: pointer;
-  border: 1px solid black;
+ cursor: pointer;
+ border: 1px solid black;
 }
 
 /* svg button */
 .svgIcon {
-  padding-bottom: 12px;
-  width: 10px;
-  height: 40px;
+ padding-bottom: 12px;
+ width: 10px;
+ height: 40px;
 }
 
 .svgButton {
-  background: transparent;
-  border: none !important;
-  cursor: pointer;
+ background: transparent;
+ border: none !important;
+ cursor: pointer;
 }
 
 .rbttn {
-  margin-left: 5px;
+ margin-left: 5px;
 }
 
 /* titles */
 .title {
-  text-align: center;
+ text-align: center;
 }
 
 .product-titles {
-  display: inline-grid;
-  grid-template-columns: 1fr;
-  grid-column-gap: 1.5em;
-  width: 300px;
-  height: 45;
-  padding: 0px 15px;
+ display: inline-grid;
+ grid-template-columns: 1fr;
+ grid-column-gap: 1.5em;
+ width: 300px;
+ height: 45;
+ padding: 0px 15px;
 }
 
 .product-titles a {
-  text-decoration: none;
-  text-align: left;
+ text-decoration: none;
+ text-align: left;
 }
 
 .product-name {
-  font-family: Calibre, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  font-size: 20px;
-  font-weight: 600; 
-  color: black;
+ font-family: Calibre, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+ font-size: 20px;
+ font-weight: 600; 
+ color: black;
 }
 
 /* prices */
 
 .price {
-  text-align: center;
+ text-align: center;
 }
 
 .product-prices {
-  display: inline-grid;
-  grid-template-columns: 1fr;
-  grid-column-gap: 1.5em;
-  width: 300px;
-  height: 45px;
-  padding: 0px 15px;
+ display: inline-grid;
+ grid-template-columns: 1fr;
+ grid-column-gap: 1.5em;
+ width: 300px;
+ height: 45px;
+ padding: 0px 15px;
 }
 
 .product-cost {
-  font-family: Calibre, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  font-size: 18px;
-  text-align: left;
-  font-weight: 300; 
-  line-height: 24px;
+ font-family: Calibre, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+ font-size: 18px;
+ text-align: left;
+ font-weight: 300; 
+ line-height: 24px;
 }
 
 
