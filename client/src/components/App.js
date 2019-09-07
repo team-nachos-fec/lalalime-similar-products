@@ -3,6 +3,7 @@ import axios from 'axios';
 import PriceList from './PriceList.js';
 import TitleList from './TitleList.js';
 import ImgHover from './ImgHover.js';
+import '../../dist/style.css'
 
 class App extends Component {
   constructor(props){
