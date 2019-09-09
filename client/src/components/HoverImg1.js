@@ -2,7 +2,7 @@ import React from 'react';
 import {FaAngleLeft, FaAngleRight} from 'react-icons/fa'
 
 
-const HoverImg1 = ({pic1, swatch1, img1Index, onMouseOver, i1, onMouseMain, onMouseMainLeave}) => {
+const HoverImg1 = ({pic1, swatch1, img1Index, onMouseOver, i1, onMouseMain, onMouseMainLeave, mouseClick, cBox}) => {
 
   return (
     <div className="hoverImg" >
@@ -23,8 +23,9 @@ const HoverImg1 = ({pic1, swatch1, img1Index, onMouseOver, i1, onMouseMain, onMo
         onMouseOut={onMouseMainLeave}
         />}
         <div className="swatch-bg">
-          <button className="svgButton"><FaAngleLeft className="svgIcon" size={30} color="#7f7f7f" /></button>
-          {/* <div className="color-box"> */}
+          <button className="svgButton" onClick={mouseClick}><FaAngleLeft className="svgIcon" size={30} color="#7f7f7f" /></button>
+          <div className="shield">          
+          <div  className={cBox ? "slide-left colorBox" : "slide-right colorBox "}>
             <img
               className="swatchImg hoverbox1 img1"
               src={swatch1[0].slice(1, 2)}
@@ -57,9 +58,17 @@ const HoverImg1 = ({pic1, swatch1, img1Index, onMouseOver, i1, onMouseMain, onMo
               id="img1"
               onMouseOver={(e) => onMouseOver(e)}
             />
-            
-          {/* </div> */}
-          <button className="svgButton rbttn"><FaAngleRight className="svgIcon" size={30} color="#7f7f7f" /></button>
+            <img
+              className="swatchImg hoverbox5 img1"
+              src={swatch1[4].slice(1, 2)}
+              alt="swatch Image"
+              name="4"
+              id="img1"
+              onMouseOver={(e) => onMouseOver(e)}
+            />
+          </div>
+          </div>
+          <button className="svgButton rbttn" onClick={mouseClick}><FaAngleRight className="svgIcon" size={30} color="#7f7f7f" /></button>
         </div>
       </div>
     </div>

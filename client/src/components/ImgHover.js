@@ -16,8 +16,13 @@ class Imghover extends Component {
       i1: false,
       i2: false,
       i3: false,
-      i4: false
+      i4: false,
+      cBox: false,
+      cBox2: false,
+      cBox3: false,
+      cBox4: false
     }
+
     this.onMouseDiv = this.onMouseDiv.bind(this);
     this.onMouseIn = this.onMouseIn.bind(this);
     this.onMouseIn2 = this.onMouseIn2.bind(this);
@@ -33,6 +38,10 @@ class Imghover extends Component {
     this.onMainChangeOut3 = this.onMainChangeOut3.bind(this);
     this.onMainChangeIn4 = this.onMainChangeIn4.bind(this);
     this.onMainChangeOut4 = this.onMainChangeOut4.bind(this);
+    this.onMouseClick = this.onMouseClick.bind(this);
+    this.onMouseClick2 = this.onMouseClick2.bind(this);
+    this.onMouseClick3 = this.onMouseClick3.bind(this);
+    this.onMouseClick4 = this.onMouseClick4.bind(this);
   }
   
 
@@ -157,18 +166,40 @@ class Imghover extends Component {
     )
   }
 
+  onMouseClick(event) {
+    this.setState (
+      {cBox: !this.state.cBox}
+    )
+  }
 
+  onMouseClick2(event) {
+    this.setState (
+      {cBox2: !this.state.cBox2}
+    )
+  }
+
+  onMouseClick3(event) {
+    this.setState (
+      {cBox3: !this.state.cBox3}
+    )
+  }
+
+  onMouseClick4(event) {
+    this.setState (
+      {cBox4: !this.state.cBox4}
+    )
+  }
 
   render() {
-    const { img, hovered } = this.props;
+    const { img } = this.props;
     if (img.length > 0) {
       if (this.state.img1 >= 0 || this.state.img2 >= 0 || this.state.img3 >= 0 || this.state.img4 >= 0) {
         return (
           <div className="hoverListImg">
-            <HoverImg1 pic1={img[0]} swatch1={img[0]} img1Index={this.state.img1} onMouseOver={this.onMouseDiv} i1={this.state.i1} onMouseMain={this.onMouseMain}  onMouseMainLeave={this.onMouseMainLeave}/>
-            <HoverImg2 pic2={img[1]} swatch2={img[0]} img2Index={this.state.img2} onMouseOver={this.onMouseDiv} i2={this.state.i2} onMouseMain2={this.onMouseMain}  onMouseMainLeave2={this.onMouseMainLeave}/>
-            <HoverImg3 pic3={img[2]} swatch3={img[0]} img3Index={this.state.img3} onMouseOver={this.onMouseDiv} i3={this.state.i3} onMouseMain3={this.onMouseMain}  onMouseMainLeave3={this.onMouseMainLeave}/>
-            <HoverImg4 pic4={img[2]} swatch4={img[0]} img4Index={this.state.img4} onMouseOver={this.onMouseDiv} i4={this.state.i4} onMouseMain4={this.onMouseMain}  onMouseMainLeave4={this.onMouseMainLeave}/>
+            <HoverImg1 pic1={img[0]} swatch1={img[0]} img1Index={this.state.img1} onMouseOver={this.onMouseDiv} i1={this.state.i1} onMouseMain={this.onMouseMain}  onMouseMainLeave={this.onMouseMainLeave} mouseClick={this.onMouseClick} cBox={this.state.cBox}/>
+            <HoverImg2 pic2={img[1]} swatch2={img[0]} img2Index={this.state.img2} onMouseOver={this.onMouseDiv} i2={this.state.i2} onMouseMain2={this.onMouseMain} onMouseMainLeave2={this.onMouseMainLeave} mouseClick={this.onMouseClick2} cBox={this.state.cBox2}/>
+            <HoverImg3 pic3={img[2]} swatch3={img[0]} img3Index={this.state.img3} onMouseOver={this.onMouseDiv} i3={this.state.i3} onMouseMain3={this.onMouseMain} onMouseMainLeave3={this.onMouseMainLeave} mouseClick={this.onMouseClick3} cBox={this.state.cBox3}/>
+            <HoverImg4 pic4={img[2]} swatch4={img[0]} img4Index={this.state.img4} onMouseOver={this.onMouseDiv} i4={this.state.i4} onMouseMain4={this.onMouseMain} onMouseMainLeave4={this.onMouseMainLeave} mouseClick={this.onMouseClick4} cBox={this.state.cBox4}/>
           </div>
         )
       }
