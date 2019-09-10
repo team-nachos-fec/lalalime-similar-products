@@ -8,13 +8,10 @@ const name = ['F.O.M.O', 'Fast and Free', 'Rule the Day', 'Align', 'Spring Break
 
 // function randomizer for title
 const createTitle = (name) => {
-  let arr = [];
-  for (let i = 0; i < 4; i++){
-    if(arr.indexOf(arr[i] === -1))
-      arr.push(name[Math.floor(Math.random() * Math.floor(name.length))]);
-  }
-  return arr;
+  name.sort(() => Math.random() -0.5);
+  return name.slice(0,4);
 };
+
 // function randomizer for price
 const createPrice = () => {
   let arr = [];
@@ -865,17 +862,30 @@ const createPants = (name) => {
   return product;
 };
 
-const combineProducts = () => {
-  let combinedProd = [];
-  for(let i = 0; i < 20; i ++){
-    combinedProd.push(createShorts(name));
-    combinedProd.push(createPants(name));
-    combinedProd.push(createSkirts(name));
-    combinedProd.push(createTanks(name));
-    combinedProd.push(createSweaters(name));
-    combinedProd.push(createDresses(name));
+const bottomProducts = () => {
+  let botProductsArr = [];
+  for (let i = 0; i < 20; i++) {
+    botProductsArr.push(createShorts(name));
+    botProductsArr.push(createPants(name));
+    botProductsArr.push(createSkirts(name));
   }
-  return combinedProd;
+  return botProductsArr;
+}
+
+const topProducts = () => {
+  let topProductsArr = [];
+  for (let i = 0; i < 20; i++) {
+    topProductsArr.push(createDresses(name));
+    topProductsArr.push(createTanks(name));
+    topProductsArr.push(createSweaters(name));
+  }
+  return topProductsArr;
+}
+
+const combineProducts = () => {
+  let bottData = bottomProducts();
+  let topData = topProducts()
+  return [...bottData, ...topData];
 }
 
 
