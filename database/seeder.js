@@ -486,32 +486,32 @@ const createSkirts = (name) => {
       [
         "color1", 
         "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/White/1.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/White/3.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/White/2.jpg"
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/White/2.jpg",
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/White/3.jpg"
       ],
       [
         "color2", 
         "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/butter+pink/1.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/butter+pink/3.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/butter+pink/2.jpg"
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/butter+pink/2.jpg",
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/butter+pink/3.jpg"
       ],
       [
         "color3", 
         "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Jet+Stream/1.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Jet+Stream/3.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Jet+Stream/2.jpg"
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Jet+Stream/2.jpg",
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Jet+Stream/3.jpg"
       ],
       [
         "color4", 
         "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Black/1.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Black/3.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Black/2.jpg"
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Black/2.jpg",
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Black/3.jpg"
       ],
       [
         "color5", 
         "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/marvel/1.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/marvel/3.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/marvel/2.jpg"
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/marvel/2.jpg",
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/marvel/3.jpg"
       ]
     ],
     [
@@ -550,32 +550,32 @@ const createSkirts = (name) => {
       [
         "color1", 
         "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Black/1.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Black/3.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Black/2.jpg"
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Black/2.jpg",
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Black/3.jpg"
       ],
       [
         "color2", 
         "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Jet+Stream/1.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Jet+Stream/3.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Jet+Stream/2.jpg"
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Jet+Stream/2.jpg",
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/Jet+Stream/3.jpg"
       ],
       [
         "color3", 
         "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/White/1.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/White/3.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/White/2.jpg"
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/White/2.jpg",
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/White/3.jpg"
       ],
       [
         "color4", 
         "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/marvel/1.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/marvel/3.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/marvel/2.jpg"
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/marvel/2.jpg",
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/marvel/3.jpg"
       ],
       [
         "color5", 
         "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/butter+pink/1.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/butter+pink/3.jpg",
-        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/butter+pink/2.jpg"
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/butter+pink/2.jpg",
+        "https://lalalime-similar.s3-us-west-1.amazonaws.com/skirts/Pace+Rival+Skirt+(Tall)/butter+pink/3.jpg"
       ]
     ],
   ];
